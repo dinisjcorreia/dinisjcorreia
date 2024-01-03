@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-###- 🔭 I’m currently working on my PAP for Colégio de Gaia<br>
-###- 🌱 I’m currently learning Unity VR<br>
-###- 📫 How to reach me: 15653213@colgaia.pt
+- 🔭 I’m currently working on my PAP for Colégio de Gaia<br>
+- 🌱 I’m currently learning Unity VR<br>
+- 📫 How to reach me: 15653213@colgaia.pt
 
 
 <!--
