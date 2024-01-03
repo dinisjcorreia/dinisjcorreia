@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+###- 🔭 I’m currently working on my PAP for Colégio de Gaia
+###- 🌱 I’m currently learning Unity VR
+###- 📫 How to reach me: 15653213@colgaia.pt
+
+
 <!--
 **dinisjcorreia/dinisjcorreia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
