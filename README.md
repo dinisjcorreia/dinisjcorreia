@@ -4,7 +4,7 @@
 
 💻 Software Developer.
 <br />
-📚 Computer and Multimedia Technologies Technician - Level 4 QNQ - Colégio de Gaia
+📚 Computer and Multimedia Technologies Technician - Level 4 QNQ @ Colégio de Gaia
 
 
 ## 🌐 Contacts:
