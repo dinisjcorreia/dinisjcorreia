@@ -23,12 +23,12 @@
 
 #### Front-end:
 
-[![Front-end](https://skillicons.dev/icons?i=html,js,ts,react,next,tailwind)](#)
+[![Front-end](https://skillicons.dev/icons?i=html,js,react,tailwind)](#)
 <br/>
 
 #### Back-end:
 
-[![Back-End](https://skillicons.dev/icons?i=java,python,cs,php,mysql)](#)
+[![Back-End](https://skillicons.dev/icons?i=cs,php,mysql)](#)
 <br/>
 
 
