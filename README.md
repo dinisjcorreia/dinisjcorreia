@@ -28,7 +28,7 @@
 
 #### Back-end:
 
-[![Back-End](https://skillicons.dev/icons?i=cs,node,php,mysql)](#)
+[![Back-End](https://skillicons.dev/icons?i=cs,nodejs,express,php,mysql)](#)
 <br/>
 
 
