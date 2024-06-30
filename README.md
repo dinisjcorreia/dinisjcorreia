@@ -11,7 +11,7 @@
 
 <a href="mailto:dinisjcorreia@icloud.com">✉️ Personal Email: dinisjcorreia@icloud.com</a>
 <br />
-<a href="https://smallpdf.com/file#s=f7febbb6-e481-4f3a-80c3-be95cb7b85f4">📃 CV - last updated 17/04/2024</a>
+<a href="https://github.com/dinisjcorreia/dinisjcorreia/blob/main/resume.pdf">📃 CV - last updated 30/06/2024</a>
 <br />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinis-correia-919433266/)
