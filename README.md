@@ -4,7 +4,7 @@
 
 💻 Software Developer.
 <br />
-📚 Computer and Multimedia Technologies Technician - Level 4 QNQ @ Colégio de Gaia
+👨🏽‍💻 Computer and Multimedia Technologies Technician - Level 4 QNQ @ Colégio de Gaia
 <br />
 📚 Computer Science Engineering - Bachelor's degree @ Instituto Superior de Engenharia do Porto
 
@@ -25,7 +25,7 @@
 
 #### Front-end:
 
-[![Front-end](https://skillicons.dev/icons?i=html,js,react,tailwind)](#)
+[![Front-end](https://skillicons.dev/icons?i=html,react,tailwind)](#)
 <br/>
 
 #### Back-end:
@@ -36,7 +36,7 @@
 
 #### Miscellaneous:
 
-[![Miscellaneous](https://skillicons.dev/icons?i=github,git,vscode,unity)](#)
+[![Miscellaneous](https://skillicons.dev/icons?i=github,git,vscode,unity,jira)](#)
 <br/>
 
 <!---
