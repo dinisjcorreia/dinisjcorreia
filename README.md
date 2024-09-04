@@ -36,7 +36,7 @@
 
 #### Miscellaneous:
 
-[![Miscellaneous](https://skillicons.dev/icons?i=github,git,vscode,unity,jira)](#)
+[![Miscellaneous](https://skillicons.dev/icons?i=git,unity)](#)
 <br/>
 
 <!---
