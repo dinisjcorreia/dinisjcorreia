@@ -25,7 +25,7 @@
 
 #### Front-end:
 
-[![Front-end](https://skillicons.dev/icons?i=html,react,tailwind)](#)
+[![Front-end](https://skillicons.dev/icons?i=html,react,tailwind,sass,bootstrap)](#)
 <br/>
 
 #### Back-end:
