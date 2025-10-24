@@ -30,7 +30,7 @@
 
 #### Back-end:
 
-[![Back-End](https://skillicons.dev/icons?i=c,assembly,cs,nodejs,express,php,mysql,java)](#)
+[![Back-End](https://skillicons.dev/icons?i=c,cs,nodejs,express,php,mysql,java)](#)
 <br/>
 
 
